@@ -1,3 +1,9 @@
+## Índice
+- [Introdução](#introdução)
+- [Capítulo 1: O Código Limpo](#capítulo-1:-o-código-limpo)
+	- [O Código](#o-código)
+	- [Código Ruim](#código-ruim)
+
 ## Introdução
 
 "The only valid measurement of code quality: WTFs / minute."

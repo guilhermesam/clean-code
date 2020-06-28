@@ -25,11 +25,9 @@ capítulos abordando a teoria sobre o código limpo, como princípios, padrões 
 	
 ### O Código
 
-	Algumas pessoas dizem que um dia a programação como conhecemos será
-extinta, ou seja, que todo código seria gerado automaticamente pelas máquinas de acordo com determinadas especificações e modelos, e não mais escrito manualmente. Confesso que eu mesmo também pensava assim até bem pouco tempo atrás, porém, nós nunca estaremos livre da programação em codificação, já que eles representam os detalhes dos requisitos. Especificar requisitos de modo que uma máquina consiga compreendê-los é programar, e a especificação é o código, e isso nunca irá mudar.
+Algumas pessoas dizem que um dia a programação como conhecemos será extinta, ou seja, que todo código seria gerado automaticamente pelas máquinas de acordo com determinadas especificações e modelos, e não mais escrito manualmente. Confesso que eu mesmo também pensava assim até bem pouco tempo atrás, porém, nós nunca estaremos livre da programação em codificação, já que eles representam os detalhes dos requisitos. Especificar requisitos de modo que uma máquina consiga compreendê-los é programar, e a especificação é o código, e isso nunca irá mudar.
 
-	Esperar que, um dia, as máquinas alcancem um nível de comunicação com 
-linguagem natural tão perfeita a ponto de uma simples especificação ser suficiente para gerar um programa executável perfeito e livre de inconsistências é como um matemático esperar que a matemática evolua tanto a ponto da formalidade da definição ser desnecessária. Isso jamais acontecerá, pois até mesmo os humanos, com toda sua criatividade e capacidade de adaptação e compreensão das "entrelinhas", não são capazes de criar sistemas de software que atendam de forma bem-sucedida aos requisitos confusos que os seus clientes por vezes definiram.
+Esperar que, um dia, as máquinas alcancem um nível de comunicação com linguagem natural tão perfeita a ponto de uma simples especificação ser suficiente para gerar um programa executável perfeito e livre de inconsistências é como um matemático esperar que a matemática evolua tanto a ponto da formalidade da definição ser desnecessária. Isso jamais acontecerá, pois até mesmo os humanos, com toda sua criatividade e capacidade de adaptação e compreensão das "entrelinhas", não são capazes de criar sistemas de software que atendam de forma bem-sucedida aos requisitos confusos que os seus clientes por vezes definiram.
 
 ### Código Ruim
 

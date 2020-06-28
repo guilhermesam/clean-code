@@ -1,6 +1,6 @@
 ## Índice
 - [Introdução](#introdução)
-- [Capítulo 1: Código Limpo](#capítulo-1:-código-limpo)
+- [Capítulo 1:Código Limpo](#capítulo-1:código-limpo)
 	- [O Código](#o-código)
 	- [Código Ruim](#código-ruim)
 

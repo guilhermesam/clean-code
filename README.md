@@ -3,6 +3,7 @@
 - [Capítulo 1: Código Limpo](#capítulo-1-código-limpo)
 	- [O Código](#o-código)
 	- [Código Ruim](#código-ruim)
+	- [O Custo de Ter um Código Confuso](#o-custo-de-ter-um-código-confuso)
 
 ## Introdução
 

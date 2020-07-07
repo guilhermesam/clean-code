@@ -37,4 +37,10 @@ Esperar que, um dia, as máquinas alcancem um nível de comunicação com lingua
 
 ### Código Ruim
 
-	
+Um código confuso ou mal escrito pode facilmente levar uma empresa à ruína, devido ao fato de que se torna cada vez mais difícil mantê-lo para suportar mudanças e atualizações. Não devemos ser procrastinadores ou preguiçosos; por mais que o código funcione num primeiro momento, mantê-lo limpo e polido é algo tão importante quanto o funcionamento perfeito. Percorrer um código ruim é como atravessar um caminho tortuoso repleto de armadilhas invisíveis do olhar, procuramos alguma dica ou instrução, mas a cada passo dado, nos encontramos mais e mais perdidos, porém, ainda assim, nunca é tarde demais para corrigí-lo ou limpá-lo.
+
+### O Custo de Ter um Código Confuso
+
+Como dito anteriormente, um código ruim pode facilmente levar uma empresa, independemente do seu porte, ao declínio. Os efeitos de se utilizar um código mal escrito por muito tempo, ignorando a ameaça, é uma verdadeira bola de neve: talvez no começo, ainda seja possível de se trabalhar, porém, com o passar do tempo e o crescimento do tamanho do projeto, a "bagunça" poderá crescer exponencialmente a ponto de se tornar impossível sua correção, ou seja, não haverá solução alguma. Ao cair em tal problema, alguns resultados são esperados, como a redução da produtividade da equipe, visto que, além de implementar novas funcionalidades, ainda será necessário criar uma harmonia entre o código antigo e o código que irá implementar tais mudanças, trabalho esse que terá uma variância de complexidade de acordo com a qualidade do código. 
+
+Além disso, um código mal escrito ainda afeta a integração de novos membros ao projeto, que se encontrarão, como descrito anteriormente, no mesmo caminho tortuoso repleto de armadilhas, e sofrerão do mesmo problema de redução de produtividade do resto da equipe.
